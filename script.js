@@ -1,13 +1,5 @@
 const messages = [
     "vdz!",
-    "sao m beo v!",
-    "y cái thg beo v",
-    "🦃!",
-    "🔔!",
-    "beo v!",
-    "beo liền!",
-    "sợ liền!",
-    "beo lạc sợ liền !",
     "vvv!"
 ];
 
